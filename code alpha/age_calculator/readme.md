@@ -26,8 +26,7 @@ The **Age Calculator** is a simple web-based tool that allows users to calculate
 ![Age Calculator Incorrect details Screenshot](wrongdata.png)
 ![Age Calculator Incorrect result Screenshot](suggesting.png)
 
-## 🔗 Live Demo
-[Click here to view the live demo](#)
+
 
 ## 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit a pull request!
