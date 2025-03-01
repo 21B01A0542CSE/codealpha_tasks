@@ -26,10 +26,6 @@ The **To-Do List** is a simple and efficient task management web application tha
 ![Deleting Task Screenshot](delete.png)
 
 
-
-## 🔗 Live Demo
-[Click here to view the live demo](#)
-
 ## 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit a pull request!
 
